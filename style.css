@@ -543,3 +543,19 @@ footer .sen {
         margin-left:30px;
     }
 }
+@media(max-width:420px){
+    .left{
+        top:0px;
+        left: -75px;
+    }
+    .top{
+        top:-20px;
+        left:-30px;
+    }
+    .rigth{
+        top:0px;
+        left: 35px;
+
+    }
+
+}
