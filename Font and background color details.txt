@@ -1,0 +1,3 @@
+Font used: Brandon Grotesque
+Background Color: #21212E
+Accent Color: #46C2FF
